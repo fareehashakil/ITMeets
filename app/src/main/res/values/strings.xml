@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Signup</string>
+
+    <string name="tag"> Web Developer | Graphics Designer </string>
+    <string name="username"> Fareeha Shakil </string>
+
+    <string name="connection"> 5m </string>
+    <string name="bio"> The Best </string>
+    <string name="email"> fareeha.shaki@yahoo.com </string>
+    <string name="skills"> Web development </string>
+    <string name="education"> BS(CSIT) </string>
+    <string name="posts"> 33 </string>
+    <string name="experience"> Fareeha Shakil </string>
+</resources>
